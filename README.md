@@ -12,5 +12,6 @@ TODO :
 - Changer réponse question 9 (poids moyen à la place d'horloge moléculaire)
 - Changer UPGMA (l'abre n'est pas ultrasymétrique)
 - Changer l'enracinement de neighbor joining à la méthode du groupe externe (avec la séquence du Dog)
+- Changer les prints de arbres pour avoir le nom des espèces à la places des lettres
 - Finir Bootstraping (Question 11)
 - Finir Question 12
