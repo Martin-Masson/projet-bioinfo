@@ -7,11 +7,3 @@ the cheetah and the African, Chinese and European wild cats.
 As these three species became extinct about 13,000 years ago, at the end of the last ice age, partial DNA sequences of the cytochrome b
 protein of these species have been able to be sequenced, allowing us, using a method based on the calculation of evolutionary distances
 between the DNA sequences of the proteins, to find the relationship between all the previously mentioned species.
-
-TODO :
-- Changer réponse question 9 (poids moyen à la place d'horloge moléculaire)
-- Changer UPGMA (l'abre n'est pas ultrasymétrique)
-- Changer l'enracinement de neighbor joining à la méthode du groupe externe (avec la séquence du Dog)
-- Changer les prints de arbres pour avoir le nom des espèces à la places des lettres
-- Finir Bootstraping (Question 11)
-- Finir Question 12
